@@ -42,7 +42,7 @@ namespace :whittle do
   end
 
   task :delete_unwanted_data => :load do
-    @json[:organizations].delete_if { |o| o[:classification] == 'committee' }
+    @json[:organizations].delete_if { |o| ['committee', 'friendship group', 'friendship_group', 'delegation'].include? o[:classification] }
     @json[:events].delete_if { |e| %w[session sitting].include? e[:type] } if @json[:events]
   end
 

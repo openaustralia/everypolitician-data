@@ -6159,105 +6159,6 @@
       ]
     },
     {
-      "classification": "friendship group",
-      "id": "friendship_group_2",
-      "name": "Senacki Zespół Energii Odnawialnej",
-      "parent_id": "chamber_VIII",
-      "sources": [
-        {
-          "url": "http://senat.gov.pl/sklad/senatorowie/zespoly/senacki,2,senacki-zespol-energii-odnawialnej.html"
-        }
-      ]
-    },
-    {
-      "classification": "friendship group",
-      "id": "friendship_group_4",
-      "name": "Senacki Zespół Infrastruktury",
-      "parent_id": "chamber_VIII",
-      "sources": [
-        {
-          "url": "http://senat.gov.pl/sklad/senatorowie/zespoly/senacki,4,senacki-zespol-infrastruktury.html"
-        }
-      ]
-    },
-    {
-      "classification": "friendship group",
-      "id": "friendship_group_1",
-      "name": "Senacki Zespół Popularyzacji Kultury i Rozwoju Czytelnictwa",
-      "parent_id": "chamber_VIII",
-      "sources": [
-        {
-          "url": "http://senat.gov.pl/sklad/senatorowie/zespoly/senacki,1,senacki-zespol-popularyzacji-kultury-i-rozwoju-czytelnictwa.html"
-        }
-      ]
-    },
-    {
-      "classification": "friendship group",
-      "id": "friendship_group_8",
-      "name": "Senacki Zespół Przyjaciół Warmii i Mazur",
-      "parent_id": "chamber_VIII",
-      "sources": [
-        {
-          "url": "http://senat.gov.pl/sklad/senatorowie/zespoly/senacki,8,senacki-zespol-przyjaciol-warmii-i-mazur.html"
-        }
-      ]
-    },
-    {
-      "classification": "friendship group",
-      "id": "friendship_group_6",
-      "name": "Senacki Zespół Spółdzielczy",
-      "parent_id": "chamber_VIII",
-      "sources": [
-        {
-          "url": "http://senat.gov.pl/sklad/senatorowie/zespoly/senacki,6,senacki-zespol-spoldzielczy.html"
-        }
-      ]
-    },
-    {
-      "classification": "friendship group",
-      "id": "friendship_group_3",
-      "name": "Senacki Zespół Strażaków",
-      "parent_id": "chamber_VIII",
-      "sources": [
-        {
-          "url": "http://senat.gov.pl/sklad/senatorowie/zespoly/senacki,3,senacki-zespol-strazakow.html"
-        }
-      ]
-    },
-    {
-      "classification": "friendship group",
-      "id": "friendship_group_5",
-      "name": "Senacki Zespół Wymiany Gospodarczej z Zagranicą",
-      "parent_id": "chamber_VIII",
-      "sources": [
-        {
-          "url": "http://senat.gov.pl/sklad/senatorowie/zespoly/senacki,5,senacki-zespol-wymiany-gospodarczej-z-zagranica.html"
-        }
-      ]
-    },
-    {
-      "classification": "friendship group",
-      "id": "friendship_group_11",
-      "name": "Senacki Zespół ds. Finansów Samorządowych",
-      "parent_id": "chamber_VIII",
-      "sources": [
-        {
-          "url": "http://senat.gov.pl/sklad/senatorowie/zespoly/senacki,11,senacki-zespol-ds-finansow-samorzadowych.html"
-        }
-      ]
-    },
-    {
-      "classification": "friendship group",
-      "id": "friendship_group_7",
-      "name": "Senacki Zespół ds. Wychowania Młodego Pokolenia",
-      "parent_id": "chamber_VIII",
-      "sources": [
-        {
-          "url": "http://senat.gov.pl/sklad/senatorowie/zespoly/senacki,7,senacki-zespol-ds-wychowania-mlodego-pokolenia.html"
-        }
-      ]
-    },
-    {
       "classification": "legislature",
       "id": "legislature",
       "name": "Senat",
@@ -6278,49 +6179,12 @@
       "classification": "party",
       "id": "party/_unknown",
       "name": "Unknown"
-    },
-    {
-      "classification": "friendship group",
-      "id": "friendship_group_9",
-      "name": "Zespół Senatorów Województwa Śląskiego",
-      "parent_id": "chamber_VIII",
-      "sources": [
-        {
-          "url": "http://senat.gov.pl/sklad/senatorowie/zespoly/senacki,9,zespol-senatorow-wojewodztwa-slaskiego.html"
-        }
-      ]
     }
   ],
   "meta": {
     "source": "http://api.parldata.eu/pl/senat"
   },
   "memberships": [
-    {
-      "id": "friendship_group_1-10",
-      "organization_id": "friendship_group_1",
-      "person_id": "10"
-    },
-    {
-      "id": "friendship_group_11-10",
-      "organization_id": "friendship_group_11",
-      "person_id": "10"
-    },
-    {
-      "id": "friendship_group_2-10",
-      "organization_id": "friendship_group_2",
-      "person_id": "10"
-    },
-    {
-      "id": "friendship_group_3-10",
-      "organization_id": "friendship_group_3",
-      "person_id": "10",
-      "start_date": "2011-12-21"
-    },
-    {
-      "id": "friendship_group_8-10",
-      "organization_id": "friendship_group_8",
-      "person_id": "10"
-    },
     {
       "id": "chamber_VIII-10",
       "legislative_period_id": "chamber_VIII",
@@ -6356,27 +6220,16 @@
       "person_id": "100"
     },
     {
-      "id": "friendship_group_11-101",
-      "organization_id": "friendship_group_11",
-      "person_id": "101"
-    },
-    {
-      "id": "friendship_group_3-101",
-      "organization_id": "friendship_group_3",
-      "person_id": "101",
-      "start_date": "2012-02-16"
-    },
-    {
-      "id": "chamber_VIII-101",
-      "legislative_period_id": "chamber_VIII",
+      "id": "chamber_VII-101",
+      "legislative_period_id": "chamber_VII",
       "on_behalf_of_id": "party/_unknown",
       "organization_id": "legislature",
       "person_id": "101",
       "role": "member"
     },
     {
-      "id": "chamber_VII-101",
-      "legislative_period_id": "chamber_VII",
+      "id": "chamber_VIII-101",
+      "legislative_period_id": "chamber_VIII",
       "on_behalf_of_id": "party/_unknown",
       "organization_id": "legislature",
       "person_id": "101",
@@ -6388,20 +6241,8 @@
       "person_id": "101"
     },
     {
-      "id": "friendship_group_2-102",
-      "organization_id": "friendship_group_2",
-      "person_id": "102",
-      "start_date": "2013-05-09"
-    },
-    {
-      "id": "friendship_group_3-102",
-      "organization_id": "friendship_group_3",
-      "person_id": "102",
-      "start_date": "2011-12-21"
-    },
-    {
-      "id": "chamber_VIII-102",
-      "legislative_period_id": "chamber_VIII",
+      "id": "chamber_I-102",
+      "legislative_period_id": "chamber_I",
       "on_behalf_of_id": "party/_unknown",
       "organization_id": "legislature",
       "person_id": "102",
@@ -6416,8 +6257,8 @@
       "role": "member"
     },
     {
-      "id": "chamber_I-102",
-      "legislative_period_id": "chamber_I",
+      "id": "chamber_VIII-102",
+      "legislative_period_id": "chamber_VIII",
       "on_behalf_of_id": "party/_unknown",
       "organization_id": "legislature",
       "person_id": "102",
@@ -6427,23 +6268,6 @@
       "id": "parliamentary_group_1-102",
       "organization_id": "parliamentary_group_1",
       "person_id": "102"
-    },
-    {
-      "id": "friendship_group_2-103",
-      "organization_id": "friendship_group_2",
-      "person_id": "103",
-      "start_date": "2011-12-21"
-    },
-    {
-      "id": "friendship_group_3-103",
-      "organization_id": "friendship_group_3",
-      "person_id": "103",
-      "start_date": "2011-12-21"
-    },
-    {
-      "id": "friendship_group_6-103",
-      "organization_id": "friendship_group_6",
-      "person_id": "103"
     },
     {
       "id": "chamber_VIII-103",
@@ -6457,17 +6281,6 @@
       "id": "parliamentary_group_1-103",
       "organization_id": "parliamentary_group_1",
       "person_id": "103"
-    },
-    {
-      "id": "friendship_group_3-104",
-      "organization_id": "friendship_group_3",
-      "person_id": "104",
-      "start_date": "2011-12-21"
-    },
-    {
-      "id": "friendship_group_6-104",
-      "organization_id": "friendship_group_6",
-      "person_id": "104"
     },
     {
       "id": "chamber_VIII-104",
@@ -6496,22 +6309,6 @@
       "person_id": "105"
     },
     {
-      "id": "friendship_group_1-106",
-      "organization_id": "friendship_group_1",
-      "person_id": "106"
-    },
-    {
-      "id": "friendship_group_2-106",
-      "organization_id": "friendship_group_2",
-      "person_id": "106",
-      "start_date": "2011-12-21"
-    },
-    {
-      "id": "friendship_group_5-106",
-      "organization_id": "friendship_group_5",
-      "person_id": "106"
-    },
-    {
       "id": "chamber_VIII-106",
       "legislative_period_id": "chamber_VIII",
       "on_behalf_of_id": "party/_unknown",
@@ -6523,24 +6320,6 @@
       "id": "parliamentary_group_1-106",
       "organization_id": "parliamentary_group_1",
       "person_id": "106"
-    },
-    {
-      "id": "friendship_group_1-107",
-      "organization_id": "friendship_group_1",
-      "person_id": "107",
-      "start_date": "2011-12-20"
-    },
-    {
-      "id": "friendship_group_2-107",
-      "organization_id": "friendship_group_2",
-      "person_id": "107",
-      "start_date": "2011-12-21"
-    },
-    {
-      "id": "friendship_group_3-107",
-      "organization_id": "friendship_group_3",
-      "person_id": "107",
-      "start_date": "2011-12-21"
     },
     {
       "id": "chamber_VIII-107",
@@ -6556,28 +6335,16 @@
       "person_id": "107"
     },
     {
-      "id": "friendship_group_2-108",
-      "organization_id": "friendship_group_2",
-      "person_id": "108",
-      "start_date": "2011-12-21"
-    },
-    {
-      "id": "friendship_group_3-108",
-      "organization_id": "friendship_group_3",
-      "person_id": "108",
-      "start_date": "2011-12-21"
-    },
-    {
-      "id": "chamber_VIII-108",
-      "legislative_period_id": "chamber_VIII",
+      "id": "chamber_VII-108",
+      "legislative_period_id": "chamber_VII",
       "on_behalf_of_id": "party/_unknown",
       "organization_id": "legislature",
       "person_id": "108",
       "role": "member"
     },
     {
-      "id": "chamber_VII-108",
-      "legislative_period_id": "chamber_VII",
+      "id": "chamber_VIII-108",
+      "legislative_period_id": "chamber_VIII",
       "on_behalf_of_id": "party/_unknown",
       "organization_id": "legislature",
       "person_id": "108",
@@ -6589,20 +6356,8 @@
       "person_id": "108"
     },
     {
-      "id": "friendship_group_2-109",
-      "organization_id": "friendship_group_2",
-      "person_id": "109",
-      "start_date": "2011-12-21"
-    },
-    {
-      "id": "friendship_group_3-109",
-      "organization_id": "friendship_group_3",
-      "person_id": "109",
-      "start_date": "2011-12-21"
-    },
-    {
-      "id": "chamber_VIII-109",
-      "legislative_period_id": "chamber_VIII",
+      "id": "chamber_VI-109",
+      "legislative_period_id": "chamber_VI",
       "on_behalf_of_id": "party/_unknown",
       "organization_id": "legislature",
       "person_id": "109",
@@ -6617,8 +6372,8 @@
       "role": "member"
     },
     {
-      "id": "chamber_VI-109",
-      "legislative_period_id": "chamber_VI",
+      "id": "chamber_VIII-109",
+      "legislative_period_id": "chamber_VIII",
       "on_behalf_of_id": "party/_unknown",
       "organization_id": "legislature",
       "person_id": "109",
@@ -6664,11 +6419,6 @@
       "person_id": "12"
     },
     {
-      "id": "friendship_group_11-13",
-      "organization_id": "friendship_group_11",
-      "person_id": "13"
-    },
-    {
       "id": "chamber_VIII-13",
       "legislative_period_id": "chamber_VIII",
       "on_behalf_of_id": "party/_unknown",
@@ -6680,29 +6430,6 @@
       "id": "parliamentary_group_1-13",
       "organization_id": "parliamentary_group_1",
       "person_id": "13"
-    },
-    {
-      "id": "friendship_group_1-14",
-      "organization_id": "friendship_group_1",
-      "person_id": "14",
-      "start_date": "2011-12-20"
-    },
-    {
-      "id": "friendship_group_11-14",
-      "organization_id": "friendship_group_11",
-      "person_id": "14"
-    },
-    {
-      "id": "friendship_group_3-14",
-      "organization_id": "friendship_group_3",
-      "person_id": "14",
-      "start_date": "2011-12-21"
-    },
-    {
-      "id": "friendship_group_4-14",
-      "organization_id": "friendship_group_4",
-      "person_id": "14",
-      "start_date": "2011-12-20"
     },
     {
       "id": "chamber_VII-14",
@@ -6745,12 +6472,6 @@
       "id": "parliamentary_group_1-15",
       "organization_id": "parliamentary_group_1",
       "person_id": "15"
-    },
-    {
-      "id": "friendship_group_3-16",
-      "organization_id": "friendship_group_3",
-      "person_id": "16",
-      "start_date": "2011-12-21"
     },
     {
       "id": "chamber_VIII-16",
@@ -6813,22 +6534,16 @@
       "person_id": "19"
     },
     {
-      "id": "friendship_group_4-20",
-      "organization_id": "friendship_group_4",
-      "person_id": "20",
-      "start_date": "2011-12-20"
-    },
-    {
-      "id": "chamber_VIII-20",
-      "legislative_period_id": "chamber_VIII",
+      "id": "chamber_VII-20",
+      "legislative_period_id": "chamber_VII",
       "on_behalf_of_id": "party/_unknown",
       "organization_id": "legislature",
       "person_id": "20",
       "role": "member"
     },
     {
-      "id": "chamber_VII-20",
-      "legislative_period_id": "chamber_VII",
+      "id": "chamber_VIII-20",
+      "legislative_period_id": "chamber_VIII",
       "on_behalf_of_id": "party/_unknown",
       "organization_id": "legislature",
       "person_id": "20",
@@ -6877,16 +6592,16 @@
       "role": "member"
     },
     {
-      "id": "chamber_VIII-22",
-      "legislative_period_id": "chamber_VIII",
+      "id": "chamber_VII-22",
+      "legislative_period_id": "chamber_VII",
       "on_behalf_of_id": "party/_unknown",
       "organization_id": "legislature",
       "person_id": "22",
       "role": "member"
     },
     {
-      "id": "chamber_VII-22",
-      "legislative_period_id": "chamber_VII",
+      "id": "chamber_VIII-22",
+      "legislative_period_id": "chamber_VIII",
       "on_behalf_of_id": "party/_unknown",
       "organization_id": "legislature",
       "person_id": "22",
@@ -6898,16 +6613,16 @@
       "person_id": "22"
     },
     {
-      "id": "chamber_VII-23",
-      "legislative_period_id": "chamber_VII",
+      "id": "chamber_IV-23",
+      "legislative_period_id": "chamber_IV",
       "on_behalf_of_id": "party/_unknown",
       "organization_id": "legislature",
       "person_id": "23",
       "role": "member"
     },
     {
-      "id": "chamber_IV-23",
-      "legislative_period_id": "chamber_IV",
+      "id": "chamber_VII-23",
+      "legislative_period_id": "chamber_VII",
       "on_behalf_of_id": "party/_unknown",
       "organization_id": "legislature",
       "person_id": "23",
@@ -6927,9 +6642,12 @@
       "person_id": "23"
     },
     {
-      "id": "friendship_group_6-24",
-      "organization_id": "friendship_group_6",
-      "person_id": "24"
+      "id": "chamber_VII-24",
+      "legislative_period_id": "chamber_VII",
+      "on_behalf_of_id": "party/_unknown",
+      "organization_id": "legislature",
+      "person_id": "24",
+      "role": "member"
     },
     {
       "id": "chamber_VIII-24",
@@ -6940,23 +6658,9 @@
       "role": "member"
     },
     {
-      "id": "chamber_VII-24",
-      "legislative_period_id": "chamber_VII",
-      "on_behalf_of_id": "party/_unknown",
-      "organization_id": "legislature",
-      "person_id": "24",
-      "role": "member"
-    },
-    {
       "id": "parliamentary_group_3-24",
       "organization_id": "parliamentary_group_3",
       "person_id": "24"
-    },
-    {
-      "id": "friendship_group_3-246",
-      "organization_id": "friendship_group_3",
-      "person_id": "246",
-      "start_date": "2013-10-02"
     },
     {
       "id": "chamber_VII-246",
@@ -6980,8 +6684,8 @@
       "person_id": "246"
     },
     {
-      "id": "chamber_VII-249",
-      "legislative_period_id": "chamber_VII",
+      "id": "chamber_VI-249",
+      "legislative_period_id": "chamber_VI",
       "on_behalf_of_id": "party/_unknown",
       "organization_id": "legislature",
       "person_id": "249",
@@ -6989,8 +6693,8 @@
       "start_date": "2015-02-27"
     },
     {
-      "id": "chamber_VI-249",
-      "legislative_period_id": "chamber_VI",
+      "id": "chamber_VII-249",
+      "legislative_period_id": "chamber_VII",
       "on_behalf_of_id": "party/_unknown",
       "organization_id": "legislature",
       "person_id": "249",
@@ -7020,11 +6724,6 @@
       "start_date": "2015-02-27"
     },
     {
-      "id": "friendship_group_6-25",
-      "organization_id": "friendship_group_6",
-      "person_id": "25"
-    },
-    {
       "id": "chamber_VIII-25",
       "legislative_period_id": "chamber_VIII",
       "on_behalf_of_id": "party/_unknown",
@@ -7036,11 +6735,6 @@
       "id": "parliamentary_group_3-25",
       "organization_id": "parliamentary_group_3",
       "person_id": "25"
-    },
-    {
-      "id": "friendship_group_6-26",
-      "organization_id": "friendship_group_6",
-      "person_id": "26"
     },
     {
       "id": "chamber_VIII-26",
@@ -7056,17 +6750,6 @@
       "person_id": "26"
     },
     {
-      "id": "friendship_group_3-27",
-      "organization_id": "friendship_group_3",
-      "person_id": "27",
-      "start_date": "2015-04-28"
-    },
-    {
-      "id": "friendship_group_6-27",
-      "organization_id": "friendship_group_6",
-      "person_id": "27"
-    },
-    {
       "id": "chamber_VIII-27",
       "legislative_period_id": "chamber_VIII",
       "on_behalf_of_id": "party/_unknown",
@@ -7080,17 +6763,6 @@
       "person_id": "27"
     },
     {
-      "id": "friendship_group_3-28",
-      "organization_id": "friendship_group_3",
-      "person_id": "28",
-      "start_date": "2011-12-21"
-    },
-    {
-      "id": "friendship_group_6-28",
-      "organization_id": "friendship_group_6",
-      "person_id": "28"
-    },
-    {
       "id": "chamber_IV-28",
       "legislative_period_id": "chamber_IV",
       "on_behalf_of_id": "party/_unknown",
@@ -7099,16 +6771,16 @@
       "role": "member"
     },
     {
-      "id": "chamber_VII-28",
-      "legislative_period_id": "chamber_VII",
+      "id": "chamber_VI-28",
+      "legislative_period_id": "chamber_VI",
       "on_behalf_of_id": "party/_unknown",
       "organization_id": "legislature",
       "person_id": "28",
       "role": "member"
     },
     {
-      "id": "chamber_VI-28",
-      "legislative_period_id": "chamber_VI",
+      "id": "chamber_VII-28",
+      "legislative_period_id": "chamber_VII",
       "on_behalf_of_id": "party/_unknown",
       "organization_id": "legislature",
       "person_id": "28",
@@ -7126,12 +6798,6 @@
       "id": "parliamentary_group_3-28",
       "organization_id": "parliamentary_group_3",
       "person_id": "28"
-    },
-    {
-      "id": "friendship_group_4-29",
-      "organization_id": "friendship_group_4",
-      "person_id": "29",
-      "start_date": "2011-12-20"
     },
     {
       "id": "chamber_VII-29",
@@ -7181,11 +6847,6 @@
       "person_id": "31"
     },
     {
-      "id": "friendship_group_5-32",
-      "organization_id": "friendship_group_5",
-      "person_id": "32"
-    },
-    {
       "id": "chamber_VII-32",
       "legislative_period_id": "chamber_VII",
       "on_behalf_of_id": "party/_unknown",
@@ -7220,22 +6881,16 @@
       "person_id": "33"
     },
     {
-      "id": "friendship_group_3-34",
-      "organization_id": "friendship_group_3",
-      "person_id": "34",
-      "start_date": "2011-12-21"
-    },
-    {
-      "id": "chamber_VIII-34",
-      "legislative_period_id": "chamber_VIII",
+      "id": "chamber_VII-34",
+      "legislative_period_id": "chamber_VII",
       "on_behalf_of_id": "party/_unknown",
       "organization_id": "legislature",
       "person_id": "34",
       "role": "member"
     },
     {
-      "id": "chamber_VII-34",
-      "legislative_period_id": "chamber_VII",
+      "id": "chamber_VIII-34",
+      "legislative_period_id": "chamber_VIII",
       "on_behalf_of_id": "party/_unknown",
       "organization_id": "legislature",
       "person_id": "34",
@@ -7289,12 +6944,6 @@
       "person_id": "36"
     },
     {
-      "id": "friendship_group_4-37",
-      "organization_id": "friendship_group_4",
-      "person_id": "37",
-      "start_date": "2011-12-20"
-    },
-    {
       "id": "chamber_VII-37",
       "legislative_period_id": "chamber_VII",
       "on_behalf_of_id": "party/_unknown",
@@ -7316,10 +6965,12 @@
       "person_id": "37"
     },
     {
-      "id": "friendship_group_4-38",
-      "organization_id": "friendship_group_4",
+      "id": "chamber_VII-38",
+      "legislative_period_id": "chamber_VII",
+      "on_behalf_of_id": "party/_unknown",
+      "organization_id": "legislature",
       "person_id": "38",
-      "start_date": "2011-12-20"
+      "role": "member"
     },
     {
       "id": "chamber_VIII-38",
@@ -7330,34 +6981,9 @@
       "role": "member"
     },
     {
-      "id": "chamber_VII-38",
-      "legislative_period_id": "chamber_VII",
-      "on_behalf_of_id": "party/_unknown",
-      "organization_id": "legislature",
-      "person_id": "38",
-      "role": "member"
-    },
-    {
       "id": "parliamentary_group_3-38",
       "organization_id": "parliamentary_group_3",
       "person_id": "38"
-    },
-    {
-      "id": "friendship_group_11-39",
-      "organization_id": "friendship_group_11",
-      "person_id": "39"
-    },
-    {
-      "id": "friendship_group_3-39",
-      "organization_id": "friendship_group_3",
-      "person_id": "39",
-      "start_date": "2011-12-21"
-    },
-    {
-      "id": "friendship_group_4-39",
-      "organization_id": "friendship_group_4",
-      "person_id": "39",
-      "start_date": "2011-12-20"
     },
     {
       "id": "chamber_VIII-39",
@@ -7371,17 +6997,6 @@
       "id": "parliamentary_group_3-39",
       "organization_id": "parliamentary_group_3",
       "person_id": "39"
-    },
-    {
-      "id": "friendship_group_4-40",
-      "organization_id": "friendship_group_4",
-      "person_id": "40",
-      "start_date": "2011-12-20"
-    },
-    {
-      "id": "friendship_group_6-40",
-      "organization_id": "friendship_group_6",
-      "person_id": "40"
     },
     {
       "id": "chamber_VIII-40",
@@ -7462,9 +7077,12 @@
       "person_id": "43"
     },
     {
-      "id": "friendship_group_7-44",
-      "organization_id": "friendship_group_7",
-      "person_id": "44"
+      "id": "chamber_VI-44",
+      "legislative_period_id": "chamber_VI",
+      "on_behalf_of_id": "party/_unknown",
+      "organization_id": "legislature",
+      "person_id": "44",
+      "role": "member"
     },
     {
       "id": "chamber_VII-44",
@@ -7483,28 +7101,9 @@
       "role": "member"
     },
     {
-      "id": "chamber_VI-44",
-      "legislative_period_id": "chamber_VI",
-      "on_behalf_of_id": "party/_unknown",
-      "organization_id": "legislature",
-      "person_id": "44",
-      "role": "member"
-    },
-    {
       "id": "parliamentary_group_3-44",
       "organization_id": "parliamentary_group_3",
       "person_id": "44"
-    },
-    {
-      "id": "friendship_group_1-45",
-      "organization_id": "friendship_group_1",
-      "person_id": "45"
-    },
-    {
-      "id": "friendship_group_4-45",
-      "organization_id": "friendship_group_4",
-      "person_id": "45",
-      "start_date": "2011-12-20"
     },
     {
       "id": "chamber_VIII-45",
@@ -7520,10 +7119,12 @@
       "person_id": "45"
     },
     {
-      "id": "friendship_group_4-46",
-      "organization_id": "friendship_group_4",
+      "id": "chamber_VI-46",
+      "legislative_period_id": "chamber_VI",
+      "on_behalf_of_id": "party/_unknown",
+      "organization_id": "legislature",
       "person_id": "46",
-      "start_date": "2011-12-20"
+      "role": "member"
     },
     {
       "id": "chamber_VII-46",
@@ -7542,22 +7143,9 @@
       "role": "member"
     },
     {
-      "id": "chamber_VI-46",
-      "legislative_period_id": "chamber_VI",
-      "on_behalf_of_id": "party/_unknown",
-      "organization_id": "legislature",
-      "person_id": "46",
-      "role": "member"
-    },
-    {
       "id": "parliamentary_group_3-46",
       "organization_id": "parliamentary_group_3",
       "person_id": "46"
-    },
-    {
-      "id": "friendship_group_6-47",
-      "organization_id": "friendship_group_6",
-      "person_id": "47"
     },
     {
       "id": "chamber_VIII-47",
@@ -7573,12 +7161,6 @@
       "person_id": "47"
     },
     {
-      "id": "friendship_group_3-48",
-      "organization_id": "friendship_group_3",
-      "person_id": "48",
-      "start_date": "2011-12-21"
-    },
-    {
       "id": "chamber_VIII-48",
       "legislative_period_id": "chamber_VIII",
       "on_behalf_of_id": "party/_unknown",
@@ -7590,17 +7172,6 @@
       "id": "parliamentary_group_3-48",
       "organization_id": "parliamentary_group_3",
       "person_id": "48"
-    },
-    {
-      "id": "friendship_group_1-49",
-      "organization_id": "friendship_group_1",
-      "person_id": "49"
-    },
-    {
-      "id": "friendship_group_3-49",
-      "organization_id": "friendship_group_3",
-      "person_id": "49",
-      "start_date": "2011-12-21"
     },
     {
       "id": "chamber_VIII-49",
@@ -7616,16 +7187,16 @@
       "person_id": "49"
     },
     {
-      "id": "chamber_VIII-50",
-      "legislative_period_id": "chamber_VIII",
+      "id": "chamber_VII-50",
+      "legislative_period_id": "chamber_VII",
       "on_behalf_of_id": "party/_unknown",
       "organization_id": "legislature",
       "person_id": "50",
       "role": "member"
     },
     {
-      "id": "chamber_VII-50",
-      "legislative_period_id": "chamber_VII",
+      "id": "chamber_VIII-50",
+      "legislative_period_id": "chamber_VIII",
       "on_behalf_of_id": "party/_unknown",
       "organization_id": "legislature",
       "person_id": "50",
@@ -7685,22 +7256,16 @@
       "person_id": "52"
     },
     {
-      "id": "friendship_group_1-53",
-      "organization_id": "friendship_group_1",
-      "person_id": "53",
-      "start_date": "2011-12-20"
-    },
-    {
-      "id": "chamber_VIII-53",
-      "legislative_period_id": "chamber_VIII",
+      "id": "chamber_VII-53",
+      "legislative_period_id": "chamber_VII",
       "on_behalf_of_id": "party/_unknown",
       "organization_id": "legislature",
       "person_id": "53",
       "role": "member"
     },
     {
-      "id": "chamber_VII-53",
-      "legislative_period_id": "chamber_VII",
+      "id": "chamber_VIII-53",
+      "legislative_period_id": "chamber_VIII",
       "on_behalf_of_id": "party/_unknown",
       "organization_id": "legislature",
       "person_id": "53",
@@ -7768,10 +7333,12 @@
       "person_id": "56"
     },
     {
-      "id": "friendship_group_4-57",
-      "organization_id": "friendship_group_4",
+      "id": "chamber_VI-57",
+      "legislative_period_id": "chamber_VI",
+      "on_behalf_of_id": "party/_unknown",
+      "organization_id": "legislature",
       "person_id": "57",
-      "start_date": "2011-12-20"
+      "role": "member"
     },
     {
       "id": "chamber_VII-57",
@@ -7784,14 +7351,6 @@
     {
       "id": "chamber_VIII-57",
       "legislative_period_id": "chamber_VIII",
-      "on_behalf_of_id": "party/_unknown",
-      "organization_id": "legislature",
-      "person_id": "57",
-      "role": "member"
-    },
-    {
-      "id": "chamber_VI-57",
-      "legislative_period_id": "chamber_VI",
       "on_behalf_of_id": "party/_unknown",
       "organization_id": "legislature",
       "person_id": "57",
@@ -7832,22 +7391,16 @@
       "person_id": "58"
     },
     {
-      "id": "friendship_group_3-59",
-      "organization_id": "friendship_group_3",
-      "person_id": "59",
-      "start_date": "2011-12-21"
-    },
-    {
-      "id": "chamber_VIII-59",
-      "legislative_period_id": "chamber_VIII",
+      "id": "chamber_VII-59",
+      "legislative_period_id": "chamber_VII",
       "on_behalf_of_id": "party/_unknown",
       "organization_id": "legislature",
       "person_id": "59",
       "role": "member"
     },
     {
-      "id": "chamber_VII-59",
-      "legislative_period_id": "chamber_VII",
+      "id": "chamber_VIII-59",
+      "legislative_period_id": "chamber_VIII",
       "on_behalf_of_id": "party/_unknown",
       "organization_id": "legislature",
       "person_id": "59",
@@ -7878,11 +7431,6 @@
       "id": "parliamentary_group_1-60",
       "organization_id": "parliamentary_group_1",
       "person_id": "60"
-    },
-    {
-      "id": "friendship_group_7-61",
-      "organization_id": "friendship_group_7",
-      "person_id": "61"
     },
     {
       "id": "chamber_VI-61",
@@ -7927,31 +7475,6 @@
       "person_id": "62"
     },
     {
-      "id": "friendship_group_1-63",
-      "organization_id": "friendship_group_1",
-      "person_id": "63",
-      "start_date": "2011-12-20"
-    },
-    {
-      "id": "friendship_group_3-63",
-      "organization_id": "friendship_group_3",
-      "person_id": "63",
-      "start_date": "2011-12-21"
-    },
-    {
-      "id": "friendship_group_7-63",
-      "organization_id": "friendship_group_7",
-      "person_id": "63"
-    },
-    {
-      "id": "chamber_VIII-63",
-      "legislative_period_id": "chamber_VIII",
-      "on_behalf_of_id": "party/_unknown",
-      "organization_id": "legislature",
-      "person_id": "63",
-      "role": "member"
-    },
-    {
       "id": "chamber_IV-63",
       "legislative_period_id": "chamber_IV",
       "on_behalf_of_id": "party/_unknown",
@@ -7968,34 +7491,21 @@
       "role": "member"
     },
     {
+      "id": "chamber_VIII-63",
+      "legislative_period_id": "chamber_VIII",
+      "on_behalf_of_id": "party/_unknown",
+      "organization_id": "legislature",
+      "person_id": "63",
+      "role": "member"
+    },
+    {
       "id": "parliamentary_group_3-63",
       "organization_id": "parliamentary_group_3",
       "person_id": "63"
     },
     {
-      "end_date": "2013-05-27",
-      "id": "friendship_group_3-64",
-      "organization_id": "friendship_group_3",
-      "person_id": "64",
-      "start_date": "2011-12-21"
-    },
-    {
-      "end_date": "2013-05-27",
-      "id": "friendship_group_4-64",
-      "organization_id": "friendship_group_4",
-      "person_id": "64",
-      "start_date": "2011-12-20"
-    },
-    {
-      "end_date": "2013-05-27",
-      "id": "friendship_group_7-64",
-      "organization_id": "friendship_group_7",
-      "person_id": "64"
-    },
-    {
-      "end_date": "2013-05-27",
-      "id": "chamber_VIII-64",
-      "legislative_period_id": "chamber_VIII",
+      "id": "chamber_VI-64",
+      "legislative_period_id": "chamber_VI",
       "on_behalf_of_id": "party/_unknown",
       "organization_id": "legislature",
       "person_id": "64",
@@ -8010,8 +7520,9 @@
       "role": "member"
     },
     {
-      "id": "chamber_VI-64",
-      "legislative_period_id": "chamber_VI",
+      "end_date": "2013-05-27",
+      "id": "chamber_VIII-64",
+      "legislative_period_id": "chamber_VIII",
       "on_behalf_of_id": "party/_unknown",
       "organization_id": "legislature",
       "person_id": "64",
@@ -8062,12 +7573,6 @@
       "person_id": "65"
     },
     {
-      "id": "friendship_group_3-66",
-      "organization_id": "friendship_group_3",
-      "person_id": "66",
-      "start_date": "2011-12-21"
-    },
-    {
       "id": "chamber_VII-66",
       "legislative_period_id": "chamber_VII",
       "on_behalf_of_id": "party/_unknown",
@@ -8089,12 +7594,6 @@
       "person_id": "66"
     },
     {
-      "id": "friendship_group_3-67",
-      "organization_id": "friendship_group_3",
-      "person_id": "67",
-      "start_date": "2011-12-21"
-    },
-    {
       "id": "chamber_VIII-67",
       "legislative_period_id": "chamber_VIII",
       "on_behalf_of_id": "party/_unknown",
@@ -8106,12 +7605,6 @@
       "id": "parliamentary_group_3-67",
       "organization_id": "parliamentary_group_3",
       "person_id": "67"
-    },
-    {
-      "id": "friendship_group_3-68",
-      "organization_id": "friendship_group_3",
-      "person_id": "68",
-      "start_date": "2011-12-21"
     },
     {
       "id": "chamber_VII-68",
@@ -8135,12 +7628,6 @@
       "person_id": "68"
     },
     {
-      "id": "friendship_group_1-69",
-      "organization_id": "friendship_group_1",
-      "person_id": "69",
-      "start_date": "2011-12-20"
-    },
-    {
       "id": "chamber_VIII-69",
       "legislative_period_id": "chamber_VIII",
       "on_behalf_of_id": "party/_unknown",
@@ -8154,16 +7641,16 @@
       "person_id": "69"
     },
     {
-      "id": "chamber_VIII-70",
-      "legislative_period_id": "chamber_VIII",
+      "id": "chamber_VII-70",
+      "legislative_period_id": "chamber_VII",
       "on_behalf_of_id": "party/_unknown",
       "organization_id": "legislature",
       "person_id": "70",
       "role": "member"
     },
     {
-      "id": "chamber_VII-70",
-      "legislative_period_id": "chamber_VII",
+      "id": "chamber_VIII-70",
+      "legislative_period_id": "chamber_VIII",
       "on_behalf_of_id": "party/_unknown",
       "organization_id": "legislature",
       "person_id": "70",
@@ -8173,22 +7660,6 @@
       "id": "parliamentary_group_7-70",
       "organization_id": "parliamentary_group_7",
       "person_id": "70"
-    },
-    {
-      "id": "friendship_group_11-71",
-      "organization_id": "friendship_group_11",
-      "person_id": "71"
-    },
-    {
-      "id": "friendship_group_4-71",
-      "organization_id": "friendship_group_4",
-      "person_id": "71",
-      "start_date": "2011-12-20"
-    },
-    {
-      "id": "friendship_group_6-71",
-      "organization_id": "friendship_group_6",
-      "person_id": "71"
     },
     {
       "id": "chamber_IV-71",
@@ -8220,22 +7691,6 @@
       "person_id": "71"
     },
     {
-      "id": "friendship_group_11-72",
-      "organization_id": "friendship_group_11",
-      "person_id": "72"
-    },
-    {
-      "id": "friendship_group_2-72",
-      "organization_id": "friendship_group_2",
-      "person_id": "72"
-    },
-    {
-      "id": "friendship_group_3-72",
-      "organization_id": "friendship_group_3",
-      "person_id": "72",
-      "start_date": "2011-12-21"
-    },
-    {
       "id": "chamber_VIII-72",
       "legislative_period_id": "chamber_VIII",
       "on_behalf_of_id": "party/_unknown",
@@ -8265,8 +7720,8 @@
       "role": "member"
     },
     {
-      "id": "chamber_VIII-73",
-      "legislative_period_id": "chamber_VIII",
+      "id": "chamber_VI-73",
+      "legislative_period_id": "chamber_VI",
       "on_behalf_of_id": "party/_unknown",
       "organization_id": "legislature",
       "person_id": "73",
@@ -8281,8 +7736,8 @@
       "role": "member"
     },
     {
-      "id": "chamber_VI-73",
-      "legislative_period_id": "chamber_VI",
+      "id": "chamber_VIII-73",
+      "legislative_period_id": "chamber_VIII",
       "on_behalf_of_id": "party/_unknown",
       "organization_id": "legislature",
       "person_id": "73",
@@ -8294,16 +7749,16 @@
       "person_id": "73"
     },
     {
-      "id": "chamber_VII-74",
-      "legislative_period_id": "chamber_VII",
+      "id": "chamber_VI-74",
+      "legislative_period_id": "chamber_VI",
       "on_behalf_of_id": "party/_unknown",
       "organization_id": "legislature",
       "person_id": "74",
       "role": "member"
     },
     {
-      "id": "chamber_VI-74",
-      "legislative_period_id": "chamber_VI",
+      "id": "chamber_VII-74",
+      "legislative_period_id": "chamber_VII",
       "on_behalf_of_id": "party/_unknown",
       "organization_id": "legislature",
       "person_id": "74",
@@ -8323,26 +7778,12 @@
       "person_id": "74"
     },
     {
-      "id": "friendship_group_1-75",
-      "organization_id": "friendship_group_1",
+      "id": "chamber_VII-75",
+      "legislative_period_id": "chamber_VII",
+      "on_behalf_of_id": "party/_unknown",
+      "organization_id": "legislature",
       "person_id": "75",
-      "start_date": "2011-12-20"
-    },
-    {
-      "id": "friendship_group_11-75",
-      "organization_id": "friendship_group_11",
-      "person_id": "75"
-    },
-    {
-      "id": "friendship_group_3-75",
-      "organization_id": "friendship_group_3",
-      "person_id": "75",
-      "start_date": "2011-12-21"
-    },
-    {
-      "id": "friendship_group_6-75",
-      "organization_id": "friendship_group_6",
-      "person_id": "75"
+      "role": "member"
     },
     {
       "id": "chamber_VIII-75",
@@ -8353,32 +7794,9 @@
       "role": "member"
     },
     {
-      "id": "chamber_VII-75",
-      "legislative_period_id": "chamber_VII",
-      "on_behalf_of_id": "party/_unknown",
-      "organization_id": "legislature",
-      "person_id": "75",
-      "role": "member"
-    },
-    {
       "id": "parliamentary_group_1-75",
       "organization_id": "parliamentary_group_1",
       "person_id": "75"
-    },
-    {
-      "id": "friendship_group_11-76",
-      "organization_id": "friendship_group_11",
-      "person_id": "76"
-    },
-    {
-      "id": "friendship_group_2-76",
-      "organization_id": "friendship_group_2",
-      "person_id": "76"
-    },
-    {
-      "id": "friendship_group_6-76",
-      "organization_id": "friendship_group_6",
-      "person_id": "76"
     },
     {
       "id": "chamber_VIII-76",
@@ -8394,27 +7812,16 @@
       "person_id": "76"
     },
     {
-      "id": "friendship_group_3-77",
-      "organization_id": "friendship_group_3",
-      "person_id": "77",
-      "start_date": "2011-12-21"
-    },
-    {
-      "id": "friendship_group_9-77",
-      "organization_id": "friendship_group_9",
-      "person_id": "77"
-    },
-    {
-      "id": "chamber_VIII-77",
-      "legislative_period_id": "chamber_VIII",
+      "id": "chamber_VI-77",
+      "legislative_period_id": "chamber_VI",
       "on_behalf_of_id": "party/_unknown",
       "organization_id": "legislature",
       "person_id": "77",
       "role": "member"
     },
     {
-      "id": "chamber_VI-77",
-      "legislative_period_id": "chamber_VI",
+      "id": "chamber_VIII-77",
+      "legislative_period_id": "chamber_VIII",
       "on_behalf_of_id": "party/_unknown",
       "organization_id": "legislature",
       "person_id": "77",
@@ -8426,32 +7833,16 @@
       "person_id": "77"
     },
     {
-      "id": "friendship_group_3-78",
-      "organization_id": "friendship_group_3",
-      "person_id": "78",
-      "start_date": "2011-12-21"
-    },
-    {
-      "id": "friendship_group_7-78",
-      "organization_id": "friendship_group_7",
-      "person_id": "78"
-    },
-    {
-      "id": "friendship_group_9-78",
-      "organization_id": "friendship_group_9",
-      "person_id": "78"
-    },
-    {
-      "id": "chamber_VIII-78",
-      "legislative_period_id": "chamber_VIII",
+      "id": "chamber_VII-78",
+      "legislative_period_id": "chamber_VII",
       "on_behalf_of_id": "party/_unknown",
       "organization_id": "legislature",
       "person_id": "78",
       "role": "member"
     },
     {
-      "id": "chamber_VII-78",
-      "legislative_period_id": "chamber_VII",
+      "id": "chamber_VIII-78",
+      "legislative_period_id": "chamber_VIII",
       "on_behalf_of_id": "party/_unknown",
       "organization_id": "legislature",
       "person_id": "78",
@@ -8463,33 +7854,16 @@
       "person_id": "78"
     },
     {
-      "id": "friendship_group_1-79",
-      "organization_id": "friendship_group_1",
-      "person_id": "79",
-      "start_date": "2011-12-20"
-    },
-    {
-      "id": "friendship_group_3-79",
-      "organization_id": "friendship_group_3",
-      "person_id": "79",
-      "start_date": "2011-12-21"
-    },
-    {
-      "id": "friendship_group_9-79",
-      "organization_id": "friendship_group_9",
-      "person_id": "79"
-    },
-    {
-      "id": "chamber_VIII-79",
-      "legislative_period_id": "chamber_VIII",
+      "id": "chamber_VII-79",
+      "legislative_period_id": "chamber_VII",
       "on_behalf_of_id": "party/_unknown",
       "organization_id": "legislature",
       "person_id": "79",
       "role": "member"
     },
     {
-      "id": "chamber_VII-79",
-      "legislative_period_id": "chamber_VII",
+      "id": "chamber_VIII-79",
+      "legislative_period_id": "chamber_VIII",
       "on_behalf_of_id": "party/_unknown",
       "organization_id": "legislature",
       "person_id": "79",
@@ -8501,25 +7875,12 @@
       "person_id": "79"
     },
     {
-      "id": "friendship_group_2-80",
-      "organization_id": "friendship_group_2",
+      "id": "chamber_VII-80",
+      "legislative_period_id": "chamber_VII",
+      "on_behalf_of_id": "party/_unknown",
+      "organization_id": "legislature",
       "person_id": "80",
-      "start_date": "2011-12-21"
-    },
-    {
-      "id": "friendship_group_5-80",
-      "organization_id": "friendship_group_5",
-      "person_id": "80"
-    },
-    {
-      "id": "friendship_group_7-80",
-      "organization_id": "friendship_group_7",
-      "person_id": "80"
-    },
-    {
-      "id": "friendship_group_9-80",
-      "organization_id": "friendship_group_9",
-      "person_id": "80"
+      "role": "member"
     },
     {
       "id": "chamber_VIII-80",
@@ -8530,23 +7891,9 @@
       "role": "member"
     },
     {
-      "id": "chamber_VII-80",
-      "legislative_period_id": "chamber_VII",
-      "on_behalf_of_id": "party/_unknown",
-      "organization_id": "legislature",
-      "person_id": "80",
-      "role": "member"
-    },
-    {
       "id": "parliamentary_group_1-80",
       "organization_id": "parliamentary_group_1",
       "person_id": "80"
-    },
-    {
-      "id": "friendship_group_9-81",
-      "organization_id": "friendship_group_9",
-      "person_id": "81",
-      "start_date": "2013-10-02"
     },
     {
       "id": "chamber_VIII-81",
@@ -8562,10 +7909,12 @@
       "person_id": "81"
     },
     {
-      "end_date": "2013-01-24",
-      "id": "friendship_group_9-82",
-      "organization_id": "friendship_group_9",
-      "person_id": "82"
+      "id": "chamber_VI-82",
+      "legislative_period_id": "chamber_VI",
+      "on_behalf_of_id": "party/_unknown",
+      "organization_id": "legislature",
+      "person_id": "82",
+      "role": "member"
     },
     {
       "id": "chamber_VII-82",
@@ -8585,28 +7934,9 @@
       "role": "member"
     },
     {
-      "id": "chamber_VI-82",
-      "legislative_period_id": "chamber_VI",
-      "on_behalf_of_id": "party/_unknown",
-      "organization_id": "legislature",
-      "person_id": "82",
-      "role": "member"
-    },
-    {
       "id": "parliamentary_group_1-82",
       "organization_id": "parliamentary_group_1",
       "person_id": "82"
-    },
-    {
-      "id": "friendship_group_2-83",
-      "organization_id": "friendship_group_2",
-      "person_id": "83",
-      "start_date": "2011-12-21"
-    },
-    {
-      "id": "friendship_group_9-83",
-      "organization_id": "friendship_group_9",
-      "person_id": "83"
     },
     {
       "id": "chamber_VII-83",
@@ -8697,20 +8027,12 @@
       "person_id": "847"
     },
     {
-      "id": "friendship_group_3-85",
-      "organization_id": "friendship_group_3",
+      "id": "chamber_VII-85",
+      "legislative_period_id": "chamber_VII",
+      "on_behalf_of_id": "party/_unknown",
+      "organization_id": "legislature",
       "person_id": "85",
-      "start_date": "2011-12-21"
-    },
-    {
-      "id": "friendship_group_4-85",
-      "organization_id": "friendship_group_4",
-      "person_id": "85"
-    },
-    {
-      "id": "friendship_group_9-85",
-      "organization_id": "friendship_group_9",
-      "person_id": "85"
+      "role": "member"
     },
     {
       "id": "chamber_VIII-85",
@@ -8721,33 +8043,9 @@
       "role": "member"
     },
     {
-      "id": "chamber_VII-85",
-      "legislative_period_id": "chamber_VII",
-      "on_behalf_of_id": "party/_unknown",
-      "organization_id": "legislature",
-      "person_id": "85",
-      "role": "member"
-    },
-    {
       "id": "parliamentary_group_1-85",
       "organization_id": "parliamentary_group_1",
       "person_id": "85"
-    },
-    {
-      "id": "friendship_group_11-86",
-      "organization_id": "friendship_group_11",
-      "person_id": "86"
-    },
-    {
-      "id": "friendship_group_3-86",
-      "organization_id": "friendship_group_3",
-      "person_id": "86",
-      "start_date": "2011-12-21"
-    },
-    {
-      "id": "friendship_group_9-86",
-      "organization_id": "friendship_group_9",
-      "person_id": "86"
     },
     {
       "id": "chamber_VIII-86",
@@ -8763,15 +8061,12 @@
       "person_id": "86"
     },
     {
-      "id": "friendship_group_3-87",
-      "organization_id": "friendship_group_3",
+      "id": "chamber_VII-87",
+      "legislative_period_id": "chamber_VII",
+      "on_behalf_of_id": "party/_unknown",
+      "organization_id": "legislature",
       "person_id": "87",
-      "start_date": "2011-12-21"
-    },
-    {
-      "id": "friendship_group_9-87",
-      "organization_id": "friendship_group_9",
-      "person_id": "87"
+      "role": "member"
     },
     {
       "id": "chamber_VIII-87",
@@ -8782,22 +8077,9 @@
       "role": "member"
     },
     {
-      "id": "chamber_VII-87",
-      "legislative_period_id": "chamber_VII",
-      "on_behalf_of_id": "party/_unknown",
-      "organization_id": "legislature",
-      "person_id": "87",
-      "role": "member"
-    },
-    {
       "id": "parliamentary_group_1-87",
       "organization_id": "parliamentary_group_1",
       "person_id": "87"
-    },
-    {
-      "id": "friendship_group_6-88",
-      "organization_id": "friendship_group_6",
-      "person_id": "88"
     },
     {
       "id": "chamber_VIII-88",
@@ -8835,16 +8117,16 @@
       "role": "member"
     },
     {
-      "id": "chamber_VIII-89",
-      "legislative_period_id": "chamber_VIII",
+      "id": "chamber_VI-89",
+      "legislative_period_id": "chamber_VI",
       "on_behalf_of_id": "party/_unknown",
       "organization_id": "legislature",
       "person_id": "89",
       "role": "member"
     },
     {
-      "id": "chamber_VI-89",
-      "legislative_period_id": "chamber_VI",
+      "id": "chamber_VIII-89",
+      "legislative_period_id": "chamber_VIII",
       "on_behalf_of_id": "party/_unknown",
       "organization_id": "legislature",
       "person_id": "89",
@@ -8854,12 +8136,6 @@
       "id": "parliamentary_group_7-89",
       "organization_id": "parliamentary_group_7",
       "person_id": "89"
-    },
-    {
-      "id": "friendship_group_4-90",
-      "organization_id": "friendship_group_4",
-      "person_id": "90",
-      "start_date": "2011-12-20"
     },
     {
       "id": "chamber_VIII-90",
@@ -8876,13 +8152,6 @@
     },
     {
       "end_date": "2014-05-25",
-      "id": "friendship_group_6-91",
-      "organization_id": "friendship_group_6",
-      "person_id": "91",
-      "start_date": "2011-12-29"
-    },
-    {
-      "end_date": "2014-05-25",
       "id": "chamber_VIII-91",
       "legislative_period_id": "chamber_VIII",
       "on_behalf_of_id": "party/_unknown",
@@ -8894,12 +8163,6 @@
       "id": "parliamentary_group_3-91",
       "organization_id": "parliamentary_group_3",
       "person_id": "91"
-    },
-    {
-      "id": "friendship_group_3-92",
-      "organization_id": "friendship_group_3",
-      "person_id": "92",
-      "start_date": "2011-12-21"
     },
     {
       "id": "chamber_VIII-92",
@@ -8915,22 +8178,6 @@
       "person_id": "92"
     },
     {
-      "id": "friendship_group_1-93",
-      "organization_id": "friendship_group_1",
-      "person_id": "93",
-      "start_date": "2011-12-20"
-    },
-    {
-      "id": "friendship_group_11-93",
-      "organization_id": "friendship_group_11",
-      "person_id": "93"
-    },
-    {
-      "id": "friendship_group_8-93",
-      "organization_id": "friendship_group_8",
-      "person_id": "93"
-    },
-    {
       "id": "chamber_VIII-93",
       "legislative_period_id": "chamber_VIII",
       "on_behalf_of_id": "party/_unknown",
@@ -8944,32 +8191,16 @@
       "person_id": "93"
     },
     {
-      "id": "friendship_group_11-94",
-      "organization_id": "friendship_group_11",
-      "person_id": "94"
-    },
-    {
-      "id": "friendship_group_4-94",
-      "organization_id": "friendship_group_4",
-      "person_id": "94",
-      "start_date": "2011-12-20"
-    },
-    {
-      "id": "friendship_group_8-94",
-      "organization_id": "friendship_group_8",
-      "person_id": "94"
-    },
-    {
-      "id": "chamber_VIII-94",
-      "legislative_period_id": "chamber_VIII",
+      "id": "chamber_VII-94",
+      "legislative_period_id": "chamber_VII",
       "on_behalf_of_id": "party/_unknown",
       "organization_id": "legislature",
       "person_id": "94",
       "role": "member"
     },
     {
-      "id": "chamber_VII-94",
-      "legislative_period_id": "chamber_VII",
+      "id": "chamber_VIII-94",
+      "legislative_period_id": "chamber_VIII",
       "on_behalf_of_id": "party/_unknown",
       "organization_id": "legislature",
       "person_id": "94",
@@ -8989,16 +8220,16 @@
       "role": "member"
     },
     {
-      "id": "chamber_VIII-95",
-      "legislative_period_id": "chamber_VIII",
+      "id": "chamber_VII-95",
+      "legislative_period_id": "chamber_VII",
       "on_behalf_of_id": "party/_unknown",
       "organization_id": "legislature",
       "person_id": "95",
       "role": "member"
     },
     {
-      "id": "chamber_VII-95",
-      "legislative_period_id": "chamber_VII",
+      "id": "chamber_VIII-95",
+      "legislative_period_id": "chamber_VIII",
       "on_behalf_of_id": "party/_unknown",
       "organization_id": "legislature",
       "person_id": "95",
@@ -9010,43 +8241,16 @@
       "person_id": "95"
     },
     {
-      "id": "friendship_group_1-96",
-      "organization_id": "friendship_group_1",
-      "person_id": "96",
-      "start_date": "2011-12-20"
-    },
-    {
-      "id": "friendship_group_11-96",
-      "organization_id": "friendship_group_11",
-      "person_id": "96"
-    },
-    {
-      "id": "friendship_group_3-96",
-      "organization_id": "friendship_group_3",
-      "person_id": "96",
-      "start_date": "2011-12-21"
-    },
-    {
-      "id": "friendship_group_6-96",
-      "organization_id": "friendship_group_6",
-      "person_id": "96"
-    },
-    {
-      "id": "friendship_group_8-96",
-      "organization_id": "friendship_group_8",
-      "person_id": "96"
-    },
-    {
-      "id": "chamber_VIII-96",
-      "legislative_period_id": "chamber_VIII",
+      "id": "chamber_VII-96",
+      "legislative_period_id": "chamber_VII",
       "on_behalf_of_id": "party/_unknown",
       "organization_id": "legislature",
       "person_id": "96",
       "role": "member"
     },
     {
-      "id": "chamber_VII-96",
-      "legislative_period_id": "chamber_VII",
+      "id": "chamber_VIII-96",
+      "legislative_period_id": "chamber_VIII",
       "on_behalf_of_id": "party/_unknown",
       "organization_id": "legislature",
       "person_id": "96",
@@ -9058,9 +8262,12 @@
       "person_id": "96"
     },
     {
-      "id": "friendship_group_6-97",
-      "organization_id": "friendship_group_6",
-      "person_id": "97"
+      "id": "chamber_VI-97",
+      "legislative_period_id": "chamber_VI",
+      "on_behalf_of_id": "party/_unknown",
+      "organization_id": "legislature",
+      "person_id": "97",
+      "role": "member"
     },
     {
       "id": "chamber_VII-97",
@@ -9079,22 +8286,9 @@
       "role": "member"
     },
     {
-      "id": "chamber_VI-97",
-      "legislative_period_id": "chamber_VI",
-      "on_behalf_of_id": "party/_unknown",
-      "organization_id": "legislature",
-      "person_id": "97",
-      "role": "member"
-    },
-    {
       "id": "parliamentary_group_1-97",
       "organization_id": "parliamentary_group_1",
       "person_id": "97"
-    },
-    {
-      "id": "friendship_group_6-98",
-      "organization_id": "friendship_group_6",
-      "person_id": "98"
     },
     {
       "id": "chamber_VIII-98",
@@ -9110,8 +8304,8 @@
       "person_id": "98"
     },
     {
-      "id": "chamber_VIII-99",
-      "legislative_period_id": "chamber_VIII",
+      "id": "chamber_VI-99",
+      "legislative_period_id": "chamber_VI",
       "on_behalf_of_id": "party/_unknown",
       "organization_id": "legislature",
       "person_id": "99",
@@ -9126,8 +8320,8 @@
       "role": "member"
     },
     {
-      "id": "chamber_VI-99",
-      "legislative_period_id": "chamber_VI",
+      "id": "chamber_VIII-99",
+      "legislative_period_id": "chamber_VIII",
       "on_behalf_of_id": "party/_unknown",
       "organization_id": "legislature",
       "person_id": "99",
