@@ -3121,6 +3121,33 @@
     ]
   },
   {
+    "name": "Mexico",
+    "country": "Mexico",
+    "code": "MX",
+    "slug": "Mexico",
+    "legislatures": [
+      {
+        "name": "Chamber of Deputies",
+        "slug": "Deputies",
+        "sources_directory": "data/Mexico/Deputies/sources",
+        "popolo": "data/Mexico/Deputies/ep-popolo-v1.0.json",
+        "lastmod": "1440161668",
+        "person_count": 515,
+        "sha": "4a019fd",
+        "legislative_periods": [
+          {
+            "end_date": "2015-08-31",
+            "id": "term/62",
+            "name": "LXII Legislature",
+            "start_date": "2012-09-01",
+            "slug": "62",
+            "csv": "data/Mexico/Deputies/term-62.csv"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "name": "Micronesia",
     "country": "Micronesia",
     "code": "FM",
