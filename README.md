@@ -22,7 +22,7 @@ This document is for developers actively working _on_ the project, rather than c
 
     1. A single line `Rakefile.rb`
 
-      ```require_relative '../../../rakefile_local.rb’```
+      ```require_relative '../../../rakefile_local.rb'```
 
     2. A single line `sources/Rakefile.rb`
 
